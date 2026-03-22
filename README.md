@@ -1,9 +1,7 @@
 Hi there, I'm Akash 👋
 Senior Full Stack Engineer
 Profile Views
-
 LinkedInLeetCodePortfolio
-
 I'm a Senior Software Engineer specializing in scalable backend architectures and high-performance web applications. I focus on producing highly observable systems and translating complex engineering challenges into seamless user experiences.
 
 🔭 What I'm Up To
@@ -12,7 +10,7 @@ I'm a Senior Software Engineer specializing in scalable backend architectures an
 💬 Ask me about: Next.js ecosystems, Socket/WebRTC streaming, WebGL, and scalable microservices.
 ⚡ Fun fact: I have an absolute obsession with maintaining 99.9% production uptime and zero-latency state handling.
 🛠️ Languages and Tools
-
+JavaScriptTypeScriptReactNext.jsNode.jsExpress.jsWebRTCThree.jsTailwindGit
 
 🚀 Featured Projects
 📱 iOS 18 Developer OS
