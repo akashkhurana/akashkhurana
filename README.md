@@ -12,15 +12,36 @@
 
 ---
 
-```
-🌐 React · Angular · Ionic · Next.js · TypeScript · RxJS · Tailwind
-🔧 Node.js · Express · MongoDB · SQL · AWS · WebRTC · Socket.io · Three.js · Git
-🧪 Jasmine · Karma · CI/CD
+```yaml
+name: "Akash Khurana"
+role: "Senior Full Stack Engineer"
+experience: "5+ years"
+focus:
+  - "Full-Stack Web & Mobile Development"
+  - "API Design & Backend Architecture"
+  - "Performance Optimization"
 ```
 
-```
-📌 Full-Stack Engineer · Web & Mobile · Cloud (AWS) · API Design · Performance Optimization
-```
+---
+
+### Stack
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,tailwind,threejs&perline=9" />
+
+**Mobile**  
+<img src="https://skillicons.dev/icons?i=ionic&perline=9" />
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+
+**Backend & Cloud**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,aws&perline=9" />
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+
+**Testing & Tooling**  
+<img src="https://skillicons.dev/icons?i=jasmine,github,git,vite&perline=9" />
+![Karma](https://img.shields.io/badge/Karma-429F00?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -28,14 +49,14 @@
 
 | | Project | Tech |
 |---|---|---|
-| `▸` | [iOS 18 Portfolio OS](https://akashkhurana.github.io/ios-portfolio/) | Next.js · Framer Motion · Tailwind |
-| `▸` | [Missile Simulator 3D](https://akashkhurana.github.io/missile-simulator-threejs/) | Three.js · WebGL |
-| `▸` | [Aviation Dashboard](https://akashkhurana.github.io/aviation-dashboard/) | React · TypeScript · WebSockets |
-| `▸` | [Layers Landing Page](https://akashkhurana.github.io/layers-landing-page/) | Next.js · Tailwind |
-| `▸` | [Shape Replay Engine](https://akashkhurana.github.io/interactive-shape/) | React · State Machine |
-| `▸` | [Crypto Live Chart](https://akashkhurana.github.io/crypto-live-bar-chart/) | D3.js · React |
-| `▸` | [Gmail Portfolio](https://akashkhurana.github.io/gmail-portfolio/) | React · Tailwind |
-| `▸` | [Color Memory Game](https://akashkhurana.github.io/color-memory-game/) | React · Framer Motion |
+| `▸` | [iOS 18 Portfolio OS](https://akashkhurana.github.io/ios-portfolio/) | Next.js · Framer Motion · Tailwind CSS |
+| `▸` | [Missile Simulator 3D](https://akashkhurana.github.io/missile-simulator-threejs/) | Three.js · GSAP · Vite |
+| `▸` | [Aviation Dashboard](https://akashkhurana.github.io/aviation-dashboard/) | Angular 17 · Leaflet · RxJS · Tailwind |
+| `▸` | [Gmail Portfolio](https://akashkhurana.github.io/gmail-portfolio/) | Angular 17 · NgRx · Angular Material · RxJS |
+| `▸` | [Layers Landing Page](https://akashkhurana.github.io/layers-landing-page/) | Next.js · Framer Motion · Tailwind CSS |
+| `▸` | [Crypto Live Chart](https://akashkhurana.github.io/crypto-live-bar-chart/) | React · D3.js · TypeScript · Vite |
+| `▸` | [Shape Replay Engine](https://akashkhurana.github.io/interactive-shape/) | React · State Machine · Animations |
+| `▸` | [Color Memory Game](https://akashkhurana.github.io/color-memory-game/) | React · Framer Motion · Local Storage |
 
 ---
 
