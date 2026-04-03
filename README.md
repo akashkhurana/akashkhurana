@@ -24,26 +24,11 @@ focus:
 
 ---
 
-### Stack
+### Tech Stack
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,tailwind,threejs&perline=9" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,sass,react,angular,next,tailwind,threejs,d3,nodejs,express,redux,rxjs,mongo,mysql,postgres,redis,firebase,aws,docker,nginx,ghactions,git,github,vite,figma,postman,npm,vscode&perline=14" />
 
-**Mobile**  
-<img src="https://skillicons.dev/icons?i=ionic&perline=9" />
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-
-**Backend & Cloud**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,aws&perline=9" />
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-
-**Testing & Tooling**  
-<img src="https://skillicons.dev/icons?i=jasmine,github,git,vite&perline=9" />
-![Karma](https://img.shields.io/badge/Karma-429F00?style=for-the-badge&logoColor=white)
-
----
+<br/>
 
 ### Projects
 
@@ -60,18 +45,16 @@ focus:
 
 ---
 
-<details>
-<summary>📊 Stats</summary>
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashkhurana&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkhurana&layout=compact&theme=radical&hide_border=true" height="155"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkhurana&theme=radical&hide_border=true" height="155"/>
-</p>
-</details>
+---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=akashkhurana&style=flat-square&color=39d353&label=views"/>
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashkhurana&theme=github-dark-green&bg_color=0D1117&color=39D353&line=39D353&point=39D353&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/COMMITS-2.7k%2B-39D353?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2328" />
+  <img src="https://img.shields.io/badge/REPOS-26-39D353?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2328" />
+  <img src="https://komarev.com/ghpvc/?username=akashkhurana&style=for-the-badge&color=39d353&label=VIEWS&labelColor=1f2328" />
 </p>
